@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Conversor de Temperatura</h1>
+
+    <label for="temperatura">Digite a temperatura:</label>
+    <input type="number" id="temperatura" placeholder="Ex: 25">
+
+    <label for="escalaOrigem">Qual a escala inicial?</label>
+    <select id="escalaInicial">
+        <option value="Celsius">Celsius</option>
+        <option value="Fahrenheit">Fahrenheit</option>
+        <option value="Kelvin">Kelvin</option>
+    </select>
+    <br>
+
+    <label for="escalaDestino">Para qual escala deseja converter?</label>
+    <select id="escalaFinal">
+        <option value="Celsius">Celsius</option>
+        <option value="Fahrenheit">Fahrenheit</option>
+        <option value="Kelvin">Kelvin</option>
+    </select>
+    
+
+    <button onclick="converterTemperatura()">Converter</button>
+
+    <h2>Temperatura Convertida:</h2>
+    <p id="resultado"></p>
+
+    <script src="atv2.js"></script>
+</body>
+</html>
