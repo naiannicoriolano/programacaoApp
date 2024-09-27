@@ -1,0 +1,27 @@
+[
+    {
+      "quote": "Na vida, não existe nada a temer, mas a entender.",
+      "author": "Marie Curie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg"
+    },
+    {
+      "quote": "O que sabemos é uma gota; o que ignoramos é um oceano.",
+      "author": "Isaac Newton",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/1920px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg"
+    },
+    {
+      "quote": "A maior glória em viver não está em nunca cair, mas em nos levantarmos a cada queda.",
+      "author": "Nelson Mandela",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg"
+    },
+    {
+    "quote": "Viver é enfrentar um problema atrás do outro. O modo como você o encara é que faz a diferença.",
+    "author": "Benjamin Franklin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BenFranklinDuplessis.jpg/1280px-BenFranklinDuplessis.jpg"
+    },
+    {
+        "quote": "Aquele que ousa perder uma hora de seu tempo não sabe o valor da vida.",
+        "author": "Charles Darwin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Charles_Darwin_1880.jpg"
+        }
+]
