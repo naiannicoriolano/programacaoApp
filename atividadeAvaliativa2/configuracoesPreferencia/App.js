@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   tituloContainer: {
-    alignItems: 'center', // Centraliza apenas o título
+    alignItems: 'center', 
     marginBottom: 20,
   },
   titulo: {
